@@ -1,0 +1,27 @@
+{
+  "name": "Review_29Oct",
+  "version": "1.0.0",
+  "description": "Review 29th October",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indisaurusrex/review_29Oct.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indisaurusrex/review_29Oct/issues"
+  },
+  "homepage": "https://github.com/indisaurusrex/review_29Oct#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.9.6",
+    "babel-preset-env": "1.7.0",
+    "babel-register": "^6.26.0",
+    "esm": "^3.2.25",
+    "jest": "^26.6.1"
+  }
+}
