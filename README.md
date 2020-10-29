@@ -25,3 +25,5 @@ input | output
 "a dgo" "a ~dgo~"
 "a Dgo" "a ~Dgo~"
 "a dgo that has a hta"  "a ~dgo~ that has a ~hta~"
+
+https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-tdd-vs-outside-in.html <= link from reviewer to get better at unit testing, do the hardcode way.

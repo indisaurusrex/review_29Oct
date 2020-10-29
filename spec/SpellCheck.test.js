@@ -16,4 +16,9 @@ describe("#SpellCheck", () => {
     speller.checkWord();
     expect(speller.output).toBe("a ~dgo~")
   })
+  it("returns the words maintaining original capitalisation", () => {
+    let speller = new SpellCheck("a Dgo")
+    speller.checkWord();
+    expect(speller.output).toBe("a ~Dgo~")
+  })
 })
