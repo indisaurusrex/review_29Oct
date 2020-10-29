@@ -21,7 +21,7 @@ example output
 
 input | output
 "a"     "a"
-"a dog" "a dog"
+"dgo"   "~dgo~"
 "a dgo" "a ~dgo~"
 "a Dgo" "a ~Dgo~"
 "a dgo that has a hta"  "a ~dgo~ that has a ~hta~"
